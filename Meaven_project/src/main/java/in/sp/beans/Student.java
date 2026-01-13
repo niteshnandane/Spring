@@ -1,11 +1,9 @@
 package in.sp.beans;
 
-import java.sql.SQLOutput;
-
 public class Student {
-    private String name;
+    private  String name;
     private int rollno;
-    private Address address;
+    private float marks;
 
     public String getName() {
         return name;
@@ -23,17 +21,16 @@ public class Student {
         this.rollno = rollno;
     }
 
-    public Address getAddress() {
-        return address;
+    public float getMarks() {
+        return marks;
     }
 
-    public void setAddress(Address address) {
-        System.out.println("Setter Method Call");
-        this.address = address;
+    public void setMarks(float marks) {
+        this.marks = marks;
     }
     public void display(){
         System.out.println("Name :"+name);
         System.out.println("Rollno :"+rollno);
-        System.out.println("Address :"+address);
+        System.out.println("Marks :"+marks);
     }
 }
