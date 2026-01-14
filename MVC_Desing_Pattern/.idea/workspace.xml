@@ -5,27 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="241754f9-8745-4c0e-9e4a-8d4fd579dc28" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/sp/controllers/Register.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/sp/controllers/login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/sp/controllers/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/sp/dbcon/DbConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Named_Perameter_JDBCTemplet/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Named_Perameter_JDBCTemplet/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Named_Perameter_JDBCTemplet/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Named_Perameter_JDBCTemplet/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Named_Perameter_JDBCTemplet/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Named_Perameter_JDBCTemplet/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Named_Perameter_JDBCTemplet/src/main/java/in/sp/Main/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Named_Perameter_JDBCTemplet/src/main/java/in/sp/resources/SpringConfigFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Named_Perameter_JDBCTemplet/src/test/java/in/sp/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcDesingPattern/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcDesingPattern/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcDesingPattern/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcDesingPattern/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcDesingPattern/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcDesingPattern/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +71,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.main">
+  <component name="RunManager" selected="JUnit.All in MVC_Desing_Pattern">
     <configuration default="true" type="com.poratu.idea.plugins.tomcat">
       <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
       <predefined_log_file enabled="true" id="Tomcat Access Log" />
@@ -162,10 +148,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in MVC_Desing_Pattern" />
         <item itemvalue="Application.main" />
         <item itemvalue="JUnit.java in MVC_Desing_Pattern" />
         <item itemvalue="JUnit.All in MVC_Desing_Pattern (1)" />
-        <item itemvalue="JUnit.All in MVC_Desing_Pattern" />
       </list>
     </recent_temporary>
   </component>
