@@ -5,47 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a84563a-34fc-4c30-8c7f-c53fda479862" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/sp/controllers/Logout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/sp/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutoWiring/src/in/sp/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoWiring/src/in/sp/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/MVC_Desing_Pattern/conf/catalina.policy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/MVC_Desing_Pattern/conf/catalina.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/MVC_Desing_Pattern/conf/context.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/MVC_Desing_Pattern/conf/jaspic-providers.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/MVC_Desing_Pattern/conf/jaspic-providers.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/MVC_Desing_Pattern/conf/logging.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/MVC_Desing_Pattern/conf/server.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/MVC_Desing_Pattern/conf/tomcat-users.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/MVC_Desing_Pattern/conf/tomcat-users.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/MVC_Desing_Pattern/conf/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/sp/controllers/Register.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/sp/controllers/login.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/sp/controllers/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/sp/dbcon/DbConnection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/profile.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jar file/commons-logging-1.3.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jar file/spring-aop-7.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jar file/spring-beans-7.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jar file/spring-context-7.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jar file/spring-core-7.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jar file/spring-expression-7.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvcDesingPattern/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvcDesingPattern/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvcDesingPattern/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvcDesingPattern/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvcDesingPattern/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvcDesingPattern/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvcDesingPattern/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvcDesingPattern/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mysql-connector-j-9.5.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/in/sp/controllers/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/in/sp/controllers/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/in/sp/controllers/login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/in/sp/controllers/login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,10 +66,10 @@
     "git-widget-placeholder": "java",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/DELL/Desktop/Spring/MVC_Desing_Pattern",
-    "project.structure.last.edited": "Libraries",
+    "project.structure.last.edited": "Facets",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.fileTypes"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [

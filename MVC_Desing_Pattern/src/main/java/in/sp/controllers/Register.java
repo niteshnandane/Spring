@@ -39,12 +39,12 @@ public class Register extends HttpServlet {
             ps.setString(4,mycity);
            int count= ps.executeUpdate();
            if(count>0){
-               System.out.println("<h3 style='color:green'>Register Successfull </h3>");
+               out.println("<h3 style='color:green'>Register Successfull </h3>");
                RequestDispatcher rd= req.getRequestDispatcher("/login.html");
                rd.include(req,resp);
 
            }else {
-               System.out.println("<h3 style='color:red'>User not Register dua to some error </h3>");
+               out.println("<h3 style='color:red'>User not Register dua to some error </h3>");
                RequestDispatcher rd= req.getRequestDispatcher("/register.html");
                rd.include(req,resp);
            }

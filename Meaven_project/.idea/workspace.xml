@@ -5,21 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cdae3bc-5b5f-4dde-ab8b-34dcfa2d9e2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/sp/beans/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/sp/main/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/sp/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutiwireXml/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutiwireXml/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutiwireXml/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutiwireXml/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutiwireXml/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutiwireXml/AutiwireXml.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutiwireXml/src/in/sp/beans/Address.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutiwireXml/src/in/sp/beans/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutiwireXml/src/in/sp/main/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutiwireXml/src/in/sp/resources/applicationContext.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HandlingFromData_in_springMVC/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HandlingFromData_in_springMVC/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HandlingFromData_in_springMVC/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HandlingFromData_in_springMVC/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HandlingFromData_in_springMVC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HandlingFromData_in_springMVC/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HandlingFromData_in_springMVC/src/main/java/main/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HandlingFromData_in_springMVC/src/main/webapp/WEB-INF/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HandlingFromData_in_springMVC/src/main/webapp/WEB-INF/myds-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HandlingFromData_in_springMVC/src/main/webapp/WEB-INF/views/about-us.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HandlingFromData_in_springMVC/src/main/webapp/WEB-INF/views/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HandlingFromData_in_springMVC/src/main/webapp/WEB-INF/views/test.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HandlingFromData_in_springMVC/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenProject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenProject/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenProject/src/main/java/in/sp/main/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenProject/src/main/webapp/WEB-INF/myds-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenProject/src/main/webapp/WEB-INF/views/about-us.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenProject/src/main/webapp/WEB-INF/views/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenProject/src/main/webapp/WEB-INF/views/test.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenProject/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenProject/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC_Desing_Pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC_Desing_Pattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC_Desing_Pattern/src/main/java/in/sp/controllers/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC_Desing_Pattern/src/main/java/in/sp/controllers/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC_Desing_Pattern/src/main/java/in/sp/controllers/login.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC_Desing_Pattern/src/main/java/in/sp/controllers/login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC_Desing_Pattern/src/main/webapp/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC_Desing_Pattern/src/main/webapp/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC_Desing_Pattern/src/main/webapp/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC_Desing_Pattern/src/main/webapp/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +74,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "java",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/DELL/Desktop/Spring/Meaven_project",
     "onboarding.tips.debug.path": "C:/Users/DELL/Desktop/Spring/Meaven_project/src/main/java/in/smartprogramming/Main.java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",

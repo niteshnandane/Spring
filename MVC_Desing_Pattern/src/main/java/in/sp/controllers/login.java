@@ -22,11 +22,13 @@ public class login extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+
         PrintWriter out=resp.getWriter();
         resp.setContentType("text/html");
 
      String myemail=req.getParameter("email1");
      String mypass1=req.getParameter("pass1");
+
      try{
          Connection con= DbConnection.getConnection();
          String query="select *from register where email=? AND password=?";
